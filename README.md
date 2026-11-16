@@ -40,3 +40,6 @@ MINX(
     ), 
     [OTIF Rate %]
 )
+Author
+Zehroz Shahzad
+Operations Data Analyst & Financial Reconciliation Specialist
